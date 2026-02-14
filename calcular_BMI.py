@@ -12,3 +12,5 @@ print (calcular_BMI(peso_lb, altura_inch))
 # Como el peso es en libra la tabla para verificar tu BMI es otra que con el peso en kilogramos
 
 # comentario de Eder/rama1, probando 2
+
+# comentario de Rafael/rama2, probando 2
